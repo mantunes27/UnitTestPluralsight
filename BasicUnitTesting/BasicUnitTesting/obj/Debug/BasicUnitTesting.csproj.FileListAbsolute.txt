@@ -1,0 +1,5 @@
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTesting\bin\Debug\BasicUnitTesting.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTesting\bin\Debug\BasicUnitTesting.pdb
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.csprojResolveAssemblyReference.cache
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.pdb

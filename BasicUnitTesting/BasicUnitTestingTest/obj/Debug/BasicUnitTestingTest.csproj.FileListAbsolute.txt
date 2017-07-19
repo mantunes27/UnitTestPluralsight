@@ -1,0 +1,9 @@
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.pdb
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\obj\Debug\BasicUnitTestingTest.csprojResolveAssemblyReference.cache
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\obj\Debug\BasicUnitTestingTest.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\obj\Debug\BasicUnitTestingTest.pdb
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTesting.dll
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTesting.pdb
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll.config
