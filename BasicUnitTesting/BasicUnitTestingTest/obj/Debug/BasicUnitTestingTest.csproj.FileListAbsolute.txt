@@ -7,3 +7,12 @@ c:\users\mantunes\documents\visual studio 2015\Projects\BasicUnitTesting\BasicUn
 C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTesting.dll
 C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTesting.pdb
 C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll.config
+C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll.config
+C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll
+C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.pdb
+C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTesting.dll
+C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTesting.pdb
+C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\obj\Debug\BasicUnitTestingTest.csprojResolveAssemblyReference.cache
+C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\obj\Debug\BasicUnitTestingTest.dll
+C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\obj\Debug\BasicUnitTestingTest.pdb
