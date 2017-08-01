@@ -57,6 +57,10 @@ namespace BasicUnitTestingTest
         public TestContext TestContext { get; set; }
 
         [TestMethod]
+        [Description("Check to see if a file does exist")]
+        [Owner("Mantunes27")]
+        [Priority(0)]
+        [TestCategory("NoException")]
         public void FileNameDoesExists()
         {
             FileProcess fp = new FileProcess();
@@ -66,6 +70,8 @@ namespace BasicUnitTestingTest
         }
 
         [TestMethod]
+        [Description("Check to see if a file does not exist")]
+        [Priority(1)]
         public void FileNameDoesNotExists()
         {
             FileProcess fp = new FileProcess();
