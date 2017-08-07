@@ -29,7 +29,7 @@ namespace BasicUnitTestingTest
         [TestInitialize]
         public void TestInitialize()
         {
-           if (TestContext.TestName == "FileNameDoesExist") SetGoodFileName();
+           if (TestContext.TestName.StartsWith("FileNameDoesExist")) SetGoodFileName();
             {
                 SetGoodFileName();
                 if (!string.IsNullOrEmpty(_GoodFileName))
@@ -43,7 +43,7 @@ namespace BasicUnitTestingTest
         [TestCleanup]
         public void TestCleanup()
         {
-            if (TestContext.TestName == "FileNameDoesExist")
+            if (TestContext.TestName.StartsWith("FileNameDoesExist"))
             {
                 if (!string.IsNullOrEmpty(_GoodFileName))
                 {
@@ -108,6 +108,36 @@ namespace BasicUnitTestingTest
 
             Assert.Fail("Call to FileExists did not throw an Argument Null Exception");
         }
+
+        private const string FILE_NAME = @"FileToDeploy.txt";
+
+        [TestMethod]
+        [DeploymentItem(FILE_NAME)]
+        public void FileNameDoesExistUsingDeploymentItem()
+        {
+            FileProcess fp = new FileProcess();
+            string fileName;
+            bool fromCall;
+
+            fileName = TestContext.DeploymentDirectory + @"\" + FILE_NAME;
+            TestContext.WriteLine("Checking file: " + fileName);
+
+            fromCall = fp.FileExists(fileName);
+
+            Assert.IsTrue(fromCall); 
+        }
+
+        [TestMethod]
+        public void FileNameDoesExistSimpleMessage()
+        {
+            FileProcess fp = new FileProcess();
+            bool fromCall;
+
+            fromCall = fp.FileExists(_GoodFileName);
+
+            Assert.IsTrue(fromCall, "File Does NOT Exist.");
+        }
+
 
         public void SetGoodFileName()
         {
