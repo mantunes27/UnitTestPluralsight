@@ -8,3 +8,8 @@ C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTesti
 C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.csprojResolveAssemblyReference.cache
 C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.dll
 C:\Users\ma\Documents\GitHub\UnitTestPluralsight\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.pdb
+C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTesting\bin\Debug\BasicUnitTesting.dll
+C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTesting\bin\Debug\BasicUnitTesting.pdb
+C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.dll
+C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.pdb

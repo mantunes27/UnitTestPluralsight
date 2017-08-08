@@ -51,8 +51,11 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="AssertClassTest.cs" />
+    <Compile Include="ColectionAssertClassTest.cs" />
     <Compile Include="FileProcessTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringAssertClassTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BasicUnitTesting\BasicUnitTesting.csproj">
