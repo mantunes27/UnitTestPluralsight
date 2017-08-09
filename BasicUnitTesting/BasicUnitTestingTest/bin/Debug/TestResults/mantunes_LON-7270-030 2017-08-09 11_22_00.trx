@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="99e806f1-df05-4907-a228-bea8d617db24" name="mantunes@LON-7270-030 2017-08-09 11:22:00" runUser="FOURTH\mantunes" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2017-08-09T11:22:00.9534367+01:00" queuing="2017-08-09T11:22:00.9534367+01:00" start="2017-08-09T11:22:00.7760453+01:00" finish="2017-08-09T11:22:01.0483184+01:00" />
+  <TestSettings name="default" id="c5a4829e-9a33-4ba7-abe4-4d2db3c4a0fb">
+    <Execution>
+      <TestTypeSpecific />
+    </Execution>
+    <Deployment runDeploymentRoot="mantunes_LON-7270-030 2017-08-09 11_22_00" />
+    <Properties />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="c27f9976-59ce-47ce-8a27-974d518bdc0d" testId="e51cf239-70b4-4a5e-0604-c05aa37dabb3" testName="AreEqualTest" computerName="LON-7270-030" duration="00:00:00.0045470" startTime="2017-08-09T11:22:00.7760453+01:00" endTime="2017-08-09T11:22:00.8303898+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c27f9976-59ce-47ce-8a27-974d518bdc0d" />
+    <UnitTestResult executionId="4a6826cd-2856-44f3-8b0e-f33561f1bc45" testId="62f49759-9c1e-a8cc-426e-cf32954e967a" testName="AreEqualCaseSensitiveTest" computerName="LON-7270-030" duration="00:00:00.0055922" startTime="2017-08-09T11:22:00.8389137+01:00" endTime="2017-08-09T11:22:00.8449301+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4a6826cd-2856-44f3-8b0e-f33561f1bc45" />
+    <UnitTestResult executionId="2e89e0b7-29c2-41d4-bee0-ebd1562fe34d" testId="9830da2d-30b9-ac4a-176e-620aaa831b65" testName="AreSameTest" computerName="LON-7270-030" duration="00:00:00.0110338" startTime="2017-08-09T11:22:00.8449301+01:00" endTime="2017-08-09T11:22:00.8563061+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2e89e0b7-29c2-41d4-bee0-ebd1562fe34d" />
+    <UnitTestResult executionId="f8f4307f-06b3-4f5d-a2d3-8f819311e95c" testId="48819562-4a02-7bf4-d24e-b0070e32d728" testName="AreNotSameTest" computerName="LON-7270-030" duration="00:00:00.0001484" startTime="2017-08-09T11:22:00.8563061+01:00" endTime="2017-08-09T11:22:00.8568057+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f8f4307f-06b3-4f5d-a2d3-8f819311e95c" />
+    <UnitTestResult executionId="d32a0322-0593-406c-a21e-09dea4dd7b3f" testId="c175749d-7919-2ff3-ea5a-a2931313af88" testName="IsInstanceOfTypeTest" computerName="LON-7270-030" duration="00:00:00.0007556" startTime="2017-08-09T11:22:00.8568057+01:00" endTime="2017-08-09T11:22:00.8573068+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d32a0322-0593-406c-a21e-09dea4dd7b3f" />
+    <UnitTestResult executionId="ab8a80d1-24c4-4045-94b4-6a8ac9872d03" testId="b64d251d-11fe-c6ac-895d-c6f0b5cf0f55" testName="IsNullTest" computerName="LON-7270-030" duration="00:00:00.0001476" startTime="2017-08-09T11:22:00.8578082+01:00" endTime="2017-08-09T11:22:00.8578082+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ab8a80d1-24c4-4045-94b4-6a8ac9872d03" />
+    <UnitTestResult executionId="7826144c-0abb-446a-b4e5-f30502fd7f85" testId="df77e1f2-92c1-3edb-11d2-509e98d61573" testName="AreCollectionsEqualFailsBecauseNoComparerTest" computerName="LON-7270-030" duration="00:00:00.0173273" startTime="2017-08-09T11:22:00.8578082+01:00" endTime="2017-08-09T11:22:00.8753516+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7826144c-0abb-446a-b4e5-f30502fd7f85">
+      <Output>
+        <ErrorInfo>
+          <Message>CollectionAssert.AreEqual failed. (Element at index 0 do not match.)</Message>
+          <StackTrace>   at BasicUnitTestingTest.ColectionAssertClassTest.AreCollectionsEqualFailsBecauseNoComparerTest() in C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\ColectionAssertClassTest.cs:line 26
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3d8b4d06-c00a-47ec-ac5d-13bd73476841" testId="76915ca8-df58-ec64-3008-affe33aad82a" testName="AreCollectionsEqualWithComparerTest" computerName="LON-7270-030" duration="00:00:00.0014079" startTime="2017-08-09T11:22:00.8753516+01:00" endTime="2017-08-09T11:22:00.8768599+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d8b4d06-c00a-47ec-ac5d-13bd73476841" />
+    <UnitTestResult executionId="8f5f4083-2450-4d1a-b2f9-99e847659784" testId="d9f757ba-590c-c52a-a774-fcb684385757" testName="FileNameDoesExists" computerName="LON-7270-030" duration="00:00:00.0094388" startTime="2017-08-09T11:22:00.8768599+01:00" endTime="2017-08-09T11:22:00.8883617+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f5f4083-2450-4d1a-b2f9-99e847659784">
+      <Output>
+        <StdOut>TestContext Messages:
+In the Class Initialize.
+Creating File: C:\Users\mantunes\AppData\Roaming\TestFile.txt
+Deleting File: C:\Users\mantunes\AppData\Roaming\TestFile.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f51b2506-4fe7-4e0e-ada9-65e562be415f" testId="4da101fb-bce7-027e-4f44-4799ad0dc4d7" testName="FileNameDoesNotExists" computerName="LON-7270-030" duration="00:00:00.0017672" startTime="2017-08-09T11:22:00.8953809+01:00" endTime="2017-08-09T11:22:00.8973863+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f51b2506-4fe7-4e0e-ada9-65e562be415f">
+      <Output>
+        <StdOut>TestContext Messages:
+Creating File: C:\Users\mantunes\AppData\Roaming\TestFile.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ffe10e56-7e66-43a1-9d69-1667717c374c" testId="3f3a1c77-7b31-dc45-88c3-80ac3676c993" testName="FileNameNullOrEmpty_ThrowsArgumentNullException" computerName="LON-7270-030" duration="00:00:00.0083586" startTime="2017-08-09T11:22:00.8973863+01:00" endTime="2017-08-09T11:22:00.9059142+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ffe10e56-7e66-43a1-9d69-1667717c374c">
+      <Output>
+        <StdOut>TestContext Messages:
+Creating File: C:\Users\mantunes\AppData\Roaming\TestFile.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b1cd7885-02ae-46b8-a965-3fd74e5c2222" testId="75ecf2f4-ddd6-55cd-82df-c19d7b0ef3b5" testName="FileNameNullOrEmpty_ThrowsArgumentNullExceptionTryCatch" computerName="LON-7270-030" duration="00:00:00.0006502" startTime="2017-08-09T11:22:00.9059142+01:00" endTime="2017-08-09T11:22:00.9069171+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1cd7885-02ae-46b8-a965-3fd74e5c2222">
+      <Output>
+        <StdOut>TestContext Messages:
+Creating File: C:\Users\mantunes\AppData\Roaming\TestFile.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="96e2aef5-7f79-4185-9e41-2feccc4337eb" testId="09e8a0bb-f7a2-b7ec-5c38-6a533a06957e" testName="FileNameDoesExistUsingDeploymentItem" computerName="LON-7270-030" duration="00:00:00.0013810" startTime="2017-08-09T11:22:00.9069171+01:00" endTime="2017-08-09T11:22:00.9084232+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="96e2aef5-7f79-4185-9e41-2feccc4337eb">
+      <Output>
+        <StdOut>TestContext Messages:
+Creating File: C:\Users\mantunes\AppData\Roaming\TestFile.txt
+Checking file: C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\TestResults\Deploy_mantunes 2017-08-09 11_22_00\Out\FileToDeploy.txt
+Deleting File: C:\Users\mantunes\AppData\Roaming\TestFile.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c4281697-59e6-47cf-880f-e9f0da100dba" testId="39dc28c6-9944-a42c-ef3e-40b42963dd94" testName="FileNameDoesExistSimpleMessage" computerName="LON-7270-030" duration="00:00:00.0025745" startTime="2017-08-09T11:22:00.9084232+01:00" endTime="2017-08-09T11:22:00.9114292+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4281697-59e6-47cf-880f-e9f0da100dba">
+      <Output>
+        <StdOut>TestContext Messages:
+Creating File: C:\Users\mantunes\AppData\Roaming\TestFile.txt
+Deleting File: C:\Users\mantunes\AppData\Roaming\TestFile.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="69cf4d20-e03b-4d33-9612-bdde953983b1" testId="7fd6fc96-b255-d270-e1ea-7fcf6cd462a5" testName="ContainsTest" computerName="LON-7270-030" duration="00:00:00.0006713" startTime="2017-08-09T11:22:00.9114292+01:00" endTime="2017-08-09T11:22:00.9124317+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="69cf4d20-e03b-4d33-9612-bdde953983b1" />
+    <UnitTestResult executionId="4dc2e598-2494-450a-9d77-b87ed747dbe8" testId="dff1088f-6cea-d193-1359-f52df4166671" testName="StartsWithTest" computerName="LON-7270-030" duration="00:00:00.0006254" startTime="2017-08-09T11:22:00.9124317+01:00" endTime="2017-08-09T11:22:00.9134345+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4dc2e598-2494-450a-9d77-b87ed747dbe8" />
+    <UnitTestResult executionId="9982f6cb-7e25-4135-ab46-d6aea455e8c7" testId="7d0ccf23-696e-832d-8d92-1f779629484b" testName="IsAllLowerCaseTest" computerName="LON-7270-030" duration="00:00:00.0022358" startTime="2017-08-09T11:22:00.9134345+01:00" endTime="2017-08-09T11:22:00.9159424+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9982f6cb-7e25-4135-ab46-d6aea455e8c7" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="AreEqualTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="e51cf239-70b4-4a5e-0604-c05aa37dabb3">
+      <Owners>
+        <Owner name="PaulS" />
+      </Owners>
+      <Execution id="c27f9976-59ce-47ce-8a27-974d518bdc0d" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.AssertClassTest" name="AreEqualTest" />
+    </UnitTest>
+    <UnitTest name="AreEqualCaseSensitiveTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="62f49759-9c1e-a8cc-426e-cf32954e967a">
+      <Owners>
+        <Owner name="JohnK" />
+      </Owners>
+      <Execution id="4a6826cd-2856-44f3-8b0e-f33561f1bc45" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.AssertClassTest" name="AreEqualCaseSensitiveTest" />
+    </UnitTest>
+    <UnitTest name="AreSameTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="9830da2d-30b9-ac4a-176e-620aaa831b65">
+      <Execution id="2e89e0b7-29c2-41d4-bee0-ebd1562fe34d" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.AssertClassTest" name="AreSameTest" />
+    </UnitTest>
+    <UnitTest name="AreNotSameTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="48819562-4a02-7bf4-d24e-b0070e32d728">
+      <Execution id="f8f4307f-06b3-4f5d-a2d3-8f819311e95c" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.AssertClassTest" name="AreNotSameTest" />
+    </UnitTest>
+    <UnitTest name="IsInstanceOfTypeTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="c175749d-7919-2ff3-ea5a-a2931313af88">
+      <Execution id="d32a0322-0593-406c-a21e-09dea4dd7b3f" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.AssertClassTest" name="IsInstanceOfTypeTest" />
+    </UnitTest>
+    <UnitTest name="IsNullTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="b64d251d-11fe-c6ac-895d-c6f0b5cf0f55">
+      <Execution id="ab8a80d1-24c4-4045-94b4-6a8ac9872d03" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.AssertClassTest" name="IsNullTest" />
+    </UnitTest>
+    <UnitTest name="AreCollectionsEqualFailsBecauseNoComparerTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="df77e1f2-92c1-3edb-11d2-509e98d61573">
+      <Execution id="7826144c-0abb-446a-b4e5-f30502fd7f85" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.ColectionAssertClassTest" name="AreCollectionsEqualFailsBecauseNoComparerTest" />
+    </UnitTest>
+    <UnitTest name="AreCollectionsEqualWithComparerTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="76915ca8-df58-ec64-3008-affe33aad82a">
+      <Execution id="3d8b4d06-c00a-47ec-ac5d-13bd73476841" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.ColectionAssertClassTest" name="AreCollectionsEqualWithComparerTest" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesExists" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" priority="0" id="d9f757ba-590c-c52a-a774-fcb684385757">
+      <Owners>
+        <Owner name="Mantunes27" />
+      </Owners>
+      <TestCategory>
+        <TestCategoryItem TestCategory="NoException" />
+      </TestCategory>
+      <Execution id="8f5f4083-2450-4d1a-b2f9-99e847659784" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.FileProcessTest" name="FileNameDoesExists" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesNotExists" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" priority="1" id="4da101fb-bce7-027e-4f44-4799ad0dc4d7">
+      <Execution id="f51b2506-4fe7-4e0e-ada9-65e562be415f" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.FileProcessTest" name="FileNameDoesNotExists" />
+    </UnitTest>
+    <UnitTest name="FileNameNullOrEmpty_ThrowsArgumentNullException" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="3f3a1c77-7b31-dc45-88c3-80ac3676c993">
+      <Execution id="ffe10e56-7e66-43a1-9d69-1667717c374c" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.FileProcessTest" name="FileNameNullOrEmpty_ThrowsArgumentNullException" />
+    </UnitTest>
+    <UnitTest name="FileNameNullOrEmpty_ThrowsArgumentNullExceptionTryCatch" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="75ecf2f4-ddd6-55cd-82df-c19d7b0ef3b5">
+      <Execution id="b1cd7885-02ae-46b8-a965-3fd74e5c2222" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.FileProcessTest" name="FileNameNullOrEmpty_ThrowsArgumentNullExceptionTryCatch" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesExistUsingDeploymentItem" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="09e8a0bb-f7a2-b7ec-5c38-6a533a06957e">
+      <Execution id="96e2aef5-7f79-4185-9e41-2feccc4337eb" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.FileProcessTest" name="FileNameDoesExistUsingDeploymentItem" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesExistSimpleMessage" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="39dc28c6-9944-a42c-ef3e-40b42963dd94">
+      <Execution id="c4281697-59e6-47cf-880f-e9f0da100dba" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.FileProcessTest" name="FileNameDoesExistSimpleMessage" />
+    </UnitTest>
+    <UnitTest name="ContainsTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="7fd6fc96-b255-d270-e1ea-7fcf6cd462a5">
+      <Execution id="69cf4d20-e03b-4d33-9612-bdde953983b1" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.StringAssertClassTest" name="ContainsTest" />
+    </UnitTest>
+    <UnitTest name="StartsWithTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="dff1088f-6cea-d193-1359-f52df4166671">
+      <Execution id="4dc2e598-2494-450a-9d77-b87ed747dbe8" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.StringAssertClassTest" name="StartsWithTest" />
+    </UnitTest>
+    <UnitTest name="IsAllLowerCaseTest" storage="c:\users\mantunes\documents\github\unittestpluralsight\basicunittesting\basicunittestingtest\bin\debug\basicunittestingtest.dll" id="7d0ccf23-696e-832d-8d92-1f779629484b">
+      <Execution id="9982f6cb-7e25-4135-ab46-d6aea455e8c7" />
+      <TestMethod codeBase="C:\Users\mantunes\Documents\Github\UnitTestPluralsight\BasicUnitTesting\BasicUnitTestingTest\bin\Debug\BasicUnitTestingTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="BasicUnitTestingTest.StringAssertClassTest" name="IsAllLowerCaseTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="e51cf239-70b4-4a5e-0604-c05aa37dabb3" executionId="c27f9976-59ce-47ce-8a27-974d518bdc0d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62f49759-9c1e-a8cc-426e-cf32954e967a" executionId="4a6826cd-2856-44f3-8b0e-f33561f1bc45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9830da2d-30b9-ac4a-176e-620aaa831b65" executionId="2e89e0b7-29c2-41d4-bee0-ebd1562fe34d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="48819562-4a02-7bf4-d24e-b0070e32d728" executionId="f8f4307f-06b3-4f5d-a2d3-8f819311e95c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c175749d-7919-2ff3-ea5a-a2931313af88" executionId="d32a0322-0593-406c-a21e-09dea4dd7b3f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b64d251d-11fe-c6ac-895d-c6f0b5cf0f55" executionId="ab8a80d1-24c4-4045-94b4-6a8ac9872d03" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="df77e1f2-92c1-3edb-11d2-509e98d61573" executionId="7826144c-0abb-446a-b4e5-f30502fd7f85" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="76915ca8-df58-ec64-3008-affe33aad82a" executionId="3d8b4d06-c00a-47ec-ac5d-13bd73476841" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9f757ba-590c-c52a-a774-fcb684385757" executionId="8f5f4083-2450-4d1a-b2f9-99e847659784" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4da101fb-bce7-027e-4f44-4799ad0dc4d7" executionId="f51b2506-4fe7-4e0e-ada9-65e562be415f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3f3a1c77-7b31-dc45-88c3-80ac3676c993" executionId="ffe10e56-7e66-43a1-9d69-1667717c374c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="75ecf2f4-ddd6-55cd-82df-c19d7b0ef3b5" executionId="b1cd7885-02ae-46b8-a965-3fd74e5c2222" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09e8a0bb-f7a2-b7ec-5c38-6a533a06957e" executionId="96e2aef5-7f79-4185-9e41-2feccc4337eb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39dc28c6-9944-a42c-ef3e-40b42963dd94" executionId="c4281697-59e6-47cf-880f-e9f0da100dba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7fd6fc96-b255-d270-e1ea-7fcf6cd462a5" executionId="69cf4d20-e03b-4d33-9612-bdde953983b1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dff1088f-6cea-d193-1359-f52df4166671" executionId="4dc2e598-2494-450a-9d77-b87ed747dbe8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7d0ccf23-696e-832d-8d92-1f779629484b" executionId="9982f6cb-7e25-4135-ab46-d6aea455e8c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="17" executed="17" passed="16" failed="1" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
